@@ -14,19 +14,21 @@ This research is part of a [study conducted to understand how users expect to us
 - If your responses are used in any public materials, they will be anonymous, and no identifiable information will be shared.
 ## Storage of Personal Information and Session Data
 - Any personal information (such as name or contact details) will be stored securely and used only for research purposes.
-- If you wish to withdraw your consent at any time, contact the primary researcher, and your data will be deleted.
+- If you wish to withdraw your consent at any time, contact the primary researcher, and your data will be deleted from the places we've shared it.
 ## Contact
 - Victoria Nduka (ndukavictoria7@gmail.com)
 - Andrej Kiripolsky (andrej.kiripolsky@grafana.com)
 - Amy Super (amy.super@grafana.com)
 - Arthur Silva Sens (arthursens2005@gmail.com) 
-## Your Consent
+## Consent for data storage
 I give my consent for (please check all that apply):
-- [ ] People to observe me during the research
-- [ ] The session audio to be recorded
-- [ ] The session video to be recorded
-- [ ] Researchers to view session recordings and notes for research and analysis
-- [ ] My anonymized responses to be included in reports, articles, and documentation
+- [ ] The session audio and video to be recorded and stored for researchers to review
+
+**Sharing**
+Please choose one:
+- [ ] My responses and recording(s) may be shared in the open source community (CNCF Slack).
+- [ ] My responses must be anonymized before being shared in the open source community (CNCF Slack).
+- [ ] My responses and recording(s) may be used by the researchers only and are not shared more widely. 
 ## Your Agreement to Participate
 I consent to participate in this study and allow the researchers to collect and use data as outlined above. I understand that my personal information will be stored securely and that I can withdraw my consent at any time.<br>
 Name (Printed): __________________________________________<br>
