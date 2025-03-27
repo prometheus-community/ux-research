@@ -20,11 +20,12 @@ This research is part of a [study conducted to understand how users expect to us
 - Andrej Kiripolsky (andrej.kiripolsky@grafana.com)
 - Amy Super (amy.super@grafana.com)
 - Arthur Silva Sens (arthursens2005@gmail.com) 
-## Consent for data storage
-I give my consent for (please check all that apply):
-- [ ] The session audio and video to be recorded and stored for researchers to review
+## Your Consent
+**Data Storage**<br>
+I give my consent for:
+- [ ] The session audio and video to be recorded and stored for researchers to review<br>
 
-**Sharing**
+**Data Sharing**<br>
 Please choose one:
 - [ ] My responses and recording(s) may be shared in the open source community (CNCF Slack).
 - [ ] My responses must be anonymized before being shared in the open source community (CNCF Slack).
