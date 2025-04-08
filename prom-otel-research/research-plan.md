@@ -20,3 +20,30 @@ Specifically, we want to:
 ### Feature Priorities:
 - What improvements would provide the most value to users working with both systems?
 - Which resource attribute use cases are most important to support natively?
+## Research Methodology
+### User Interviews (Qualitative)
+- Conduct 30-minute semi-structured interviews with (X no. of) engineers who use both systems
+- Focus on understanding their current workflows, pain points, and mental models
+- Have them walk through specific tasks while thinking aloud (nice-to-have)
+### Survey (Quantitative)
+- Distribute a broader survey to gather data from a larger pool of users (aim for 50+ responses)
+- Include questions about tool usage patterns, frequency of certain tasks, and prioritization of potential improvements
+- Use Likert scales to measure satisfaction with current integration options
+### Why This Research Methodology?
+The decision to use interviews and surveys makes sense given what we're trying to understand. Interviews will provide deeper insights into how engineers actually work with OpenTelemetry resource attributes in Prometheus. Meanwhile, surveys (which may run alongside the interviews) will help validate whether the patterns we observe in interviews hold true across a broader range of teams and organizations.
+
+I reviewed the [OTel End-User SIG survey](https://github.com/open-telemetry/sig-end-user/tree/main/end-user-surveys/otel-prom-interoperability) to see if we could use their findings instead of running our own survey. I noticed some overlap. However, their survey focused more broadly on OpenTelemetry and Prometheus interoperability. In contrast, our research is specifically centered on resource attributes, meaning our survey questions will need to be different.
+## Target Participants
+- Engineers or practitioners with hands-on experience using both Prometheus and OpenTelemetry.
+- Roles may include:
+  - Site Reliability Engineers (SREs)
+  - DevOps Engineers
+  - Platform Engineers
+  - Observability Engineers
+  - Backend Developers
+- Working in environments where observability and monitoring are part of their day-to-day workflow.
+- Experience with configuring, maintaining, or querying metrics in Prometheus.
+- Familiarity with OTLP (OpenTelemetry Protocol) and how resource attributes are set or used.
+## Timeline
+The full project schedule is documented in this [Google Doc](https://docs.google.com/document/d/133oj-hsj6t2Hs2Yt6zpkihdbnucKeeNdF4XGXkDbrNs/edit?tab=t.hy4j88dpzfl9).
+
