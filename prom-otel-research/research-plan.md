@@ -17,6 +17,8 @@ Specifically, we want to:
 ### Goal 3: User Expectations
 - What visualization and query patterns do users expect when working with resource attributes?
 - How do users expect to filter and group metrics based on resource attributes?
+- How do users perceive the usefulness of different resource attributes when querying or visualizing data?
+- What are users’ expectations around Prometheus identifying or surfacing relevant attributes automatically versus relying on manual configuration?
 ### Feature Priorities:
 - What improvements would provide the most value to users working with both systems?
 - Which resource attribute use cases are most important to support natively?
