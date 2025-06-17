@@ -10,5 +10,4 @@ The goal of this research is to gather insights from real-world users on how OTL
 
 - [Research Plan](research-plan.md) - Overview of the project's scope, goals, research questions, methodologies, target participants, and timeline.
 - [Participation Agreement](participation-agreement.md) – Informed consent form for research participants
-- [Interview Notes](interview-notes.md) – Summaries or anonymized notes from stakeholder/user interviews
 - [Findings](findings.md) – Final synthesis of what we learned
