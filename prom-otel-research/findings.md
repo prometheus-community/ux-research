@@ -28,13 +28,13 @@ We interviewed 7 end users and they all shared incredibly helpful insights.
 - The most prominent pain point users shared was the **complexity of performing joins** with the current integration.
 - Regarding mental models, many users (both interviewees and survey respondents) don’t distinguish between resource attributes and Prometheus labels. They tend to think of them as the same thing.
 > "I would expect resource attributes as a rule to be treated exactly the same way as the attributes attached to the tracer, the metric... I wouldn't draw a boundary between them. I think Prometheus does at the moment." - Participant 1
-- As for workarounds, three out of five participants (60%) said they promote selected resource attributes to labels. One (20%) handles the conversion at the OpenTelemetry-Collector level to avoid dealing with it in Prometheus. The remaining participant (20%) converts all attributes, though usually only when the number of attributes is small.
+- As for workarounds, some users promote selected resource attributes to labels, others handle the conversion at the OpenTelemetry level to avoid dealing with it in Prometheus, and a few convert all attributes, though usually only when the number of attributes is small.
 
 ## Survey Insights
 We received 134 responses in total, with 61 from our target group — people who use both OTel and Prometheus together.
 Here are the key insights:
-- Users don't conceptualize resource attributes as different from regular labels, yet current implementation treats them as separate metadata
-- Complex join syntax is the primary barrier to adoption, with average developers unable to write basic queries accessing resource attributes
+- Users don't conceptualize resource attributes as different from regular labels. 43% of respondents say they expect resource attributes to be represented "as labels" in Prometheus
+- Complex join syntax is a big barrier to adoption, with 73% of respondents reporting the use of joins as challenging
 - Manual attribute promotion creates operational overhead that scales poorly with team size and complexity
 - 78% of respondents find documentation gaps a challenge in their use of resource attributes  
 
