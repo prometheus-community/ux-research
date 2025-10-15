@@ -44,8 +44,8 @@ This highlights a broader issue: documentation and education gaps are a major ba
 
 Another key realization is that earlier integration decisions, like the reliance on joins, were made without a full understanding of each tool’s capabilities, an unavoidable consequence of the lack of early collaboration and communication between the Prometheus and OpenTelemetry communities.
 
-## Future Blogs & Publications
-We plan to share these findings and insights through blog posts on several platforms to reach the broader observability community:
-- Grafana Blog
-- OpenTelemetry Blog
-- Cloud Native Computing Foundation (CNCF) Blog
+## Blog Posts
+We shared these findings and insights through blog posts on several platforms to reach the broader observability community:
+- [Grafana Blog](https://grafana.com/blog/2025/08/28/how-should-prometheus-handle-opentelemetry-resource-attributes-a-ux-research-report/)
+- [OpenTelemetry Blog](https://opentelemetry.io/blog/2025/ux-research-prometheus-otel/)
+- [Cloud Native Computing Foundation (CNCF) Blog](https://www.cncf.io/blog/2025/08/25/how-should-prometheus-handle-opentelemetry-resource-attributes-a-ux-research-report/)
