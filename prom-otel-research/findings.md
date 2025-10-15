@@ -4,7 +4,7 @@ We spoke to 6 stakeholders—3 from each project:
 
 **Prometheus stakeholders:**
 1. [Julius Volz](https://github.com/juliusv) - Prometheus Co-founder
-2. [Beorn Rabestein](https://github.com/beorn7) - Prometheus long-time maintainer
+2. [Beorn Rabenstein](https://github.com/beorn7) - Prometheus long-time maintainer
 3. [Richard Hartmann](https://github.com/RichiH) - OpenMetrics co-founder and Prometheus maintainer.
 
 **OpenTelemetry stakeholders:**
